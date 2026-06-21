@@ -1,10 +1,10 @@
-# 🎓 Face Recognition Attendance System
+🎓 Face Recognition Attendance System
 
 An intelligent attendance management system that automates student attendance tracking using Facial Recognition Technology. This project is built with Python, Streamlit, OpenCV, and Face Recognition libraries to provide a secure, efficient, and user-friendly attendance solution for educational institutions.
 
 ---
 
-## 📌 Overview
+ 📌 Overview
 
 Traditional attendance systems are time-consuming and prone to errors. This project leverages facial recognition to automatically identify students and record attendance in real-time.
 
@@ -20,30 +20,30 @@ The system supports:
 
 ---
 
-## 🚀 Features
+🚀 Features
 
-### 👨‍🎓 Student Module
+ 👨‍🎓 Student Module
 - Student account registration
 - Face image enrollment
 - Secure login system
 - View attendance history
 - Profile management
 
-### 👨‍🏫 Teacher Module
+ 👨‍🏫 Teacher Module
 - Teacher registration
 - Teacher approval workflow
 - Attendance monitoring
 - Student management
 - Attendance report generation
 
-### 🤖 Face Recognition
+ 🤖 Face Recognition
 - Face detection using OpenCV
 - Face encoding and recognition
 - Multiple face image capture
 - Real-time attendance marking
 - Automatic attendance storage
 
-### 📊 Reports & Analytics
+ 📊 Reports & Analytics
 - Daily attendance reports
 - Attendance statistics
 - Student attendance tracking
@@ -51,7 +51,7 @@ The system supports:
 
 ---
 
-## 🛠️ Tech Stack
+ 🛠️ Tech Stack
 
 | Technology | Purpose |
 |------------|----------|
@@ -67,7 +67,7 @@ The system supports:
 
 ---
 
-## 📂 Project Structure
+ 📂 Project Structure
 
 ```text
 FaceRecognitionAttendance/
@@ -101,16 +101,16 @@ FaceRecognitionAttendance/
 
 ---
 
-## ⚙️ Installation
+ ⚙️ Installation
 
-### 1. Clone Repository
+1. Clone Repository
 
 ```bash
 git clone https://github.com/yourusername/face-recognition-attendance.git
 cd face-recognition-attendance
 ```
 
-### 2. Create Virtual Environment
+ 2. Create Virtual Environment
 
 ```bash
 python -m venv venv
@@ -311,6 +311,4 @@ Face Recognition Attendance System Project
 
 GitHub: https://github.com/hitarth-patel-hp
 
----
 
-⭐ If you found this project useful, consider giving it a star on GitHub.
